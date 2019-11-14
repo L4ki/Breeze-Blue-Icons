@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
     <defs id="defs3051">
         <style type="text/css" id="current-color-scheme">
             .ColorScheme-NegativeText {
@@ -6,8 +6,8 @@
             }
         </style>
     </defs>
-    <g style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-NegativeText">
-        <path d="M5 4v16h7v-1H6V5h12v9h1V4H5"/>
-        <path d="M14.707 15l-.707.707 1.793 1.793L14 19.293l.707.707 1.793-1.793L18.293 20l.707-.707-1.793-1.793L19 15.707 18.293 15 16.5 16.793 14.707 15z"/>
-    </g>
+    <path
+        style="fill:currentColor;fill-opacity:1;stroke:none" 
+        class="ColorScheme-NegativeText"
+        d="M18 20.707L21.293 24 18 27.293c.013.025.707.707.707.707L22 24.707 25.293 28l.707-.707L22.707 24 26 20.707 25.293 20 22 23.293 18.707 20zM6 4v24h11v-1H7V5h11v7h7v7h1v-8l-7-7h-1z"/>
 </svg>
