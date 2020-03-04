@@ -1,4 +1,4 @@
-# Breeze-Blue-Icins
+# Breeze-Blue-Icons
 Breeze Blue Dark and Light Icons for KDE-Plasma
 
 Changelog: 03.03.2020.
